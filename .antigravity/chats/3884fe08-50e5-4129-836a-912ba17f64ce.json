@@ -3,19 +3,19 @@
   "name": "이 프로젝트의 랜딩페이지를 내가 보내주는 이미지로",
   "createdAt": "2026-10-30T15:53:10.668Z",
   "filename": "3884fe08-50e5-4129-836a-912ba17f64ce.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "34610e18-5429-4bda-b994-296363036b11",
       "role": "user",
       "content": "이 프로젝트의 랜딩페이지를 내가 보내주는 이미지로 수정해줘 어떤 기기에서도 짤리지 않는 반응형으로 구성할거야",
-      "status": "pending",
+      "status": "cancelled",
       "model": "gemini-3.8-flash-high",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
       "created_at": "2026-10-30T15:54:01.759Z",
       "sender": "ios",
-      "is_cancelled": false
+      "is_cancelled": true
     }
   ]
 }
