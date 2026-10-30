@@ -16,6 +16,18 @@
       "created_at": "2026-10-30T15:54:01.759Z",
       "sender": "ios",
       "is_cancelled": true
+    },
+    {
+      "id": "0901fedc-736d-4969-905e-6049cf3b3378",
+      "role": "user",
+      "content": "I attached an image: images/photo-1793375677-1.jpg.\n\n이 프로젝트의 랜딩페이지를 내가 보내주는 이미지로 수정해줘 어떤 기기에서도 짤리지 않는 반응형으로 구성할거야",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-30T15:54:39.720Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
